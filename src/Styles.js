@@ -53,15 +53,7 @@ export default makeStyles((theme) => ({
       flexDirection: 'column',
     },
   },
-  caption:{
-    position:'absolute',
-    top:'-500px', left:'0', right:'0',
-    background: 'rgba(0, 0, 0, 0.5)',
-    color:'white',
-    padding:'30px',
-    textAlign:'justify',
-    transition: 'all 500ms ease',
-  },
+  
   logoContainer: {
     padding: '0 5%',
     display: 'flex',
@@ -77,16 +69,16 @@ export default makeStyles((theme) => ({
   },
   
   alanLogo: {
-    height: '30vmin',
+    height: '27vmin',
     //width:'50vmin',
     borderRadius: '50%',
     padding: '0 5%',
     margin: '3% 0',
-    /*'&:hover':{
+    '&:hover':{
       transform: 'scale(1.04)',
       boxShadow: '0 0 -4px -10px rgba(0, 0, 0, 0.25)'
       
-  },*/
+  },
     [theme.breakpoints.down('sm')]: {
       height: '35vmin',
       
