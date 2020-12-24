@@ -16,7 +16,7 @@ export default makeStyles({
          padding:'10%',
          borderRadius: 10,
          color:'white',
-          boxShadow: '2px 18px 20px 20px #666666',
+          //boxShadow: '2px 2px 2px 2px #666666',
           '&:hover':{
             transform: 'scale(1.04)',
             boxShadow: '0 0 40px -10px rgba(0, 0, 0, 0.25)'
