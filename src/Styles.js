@@ -78,18 +78,18 @@ export default makeStyles((theme) => ({
   
   alanLogo: {
     height: '30vmin',
-    width:'68vmin',
-    borderRadius: '25%',
+    //width:'50vmin',
+    borderRadius: '50%',
     padding: '0 5%',
     margin: '3% 0',
-    '&:hover':{
+    /*'&:hover':{
       transform: 'scale(1.04)',
       boxShadow: '0 0 -4px -10px rgba(0, 0, 0, 0.25)'
       
-  },
+  },*/
     [theme.breakpoints.down('sm')]: {
-      height: '38vmin',
-      width:'79vmin'
+      height: '35vmin',
+      
     },
   },
 creater:{
