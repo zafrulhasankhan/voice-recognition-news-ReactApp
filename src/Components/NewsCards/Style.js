@@ -17,10 +17,10 @@ export default makeStyles({
          borderRadius: 10,
          color:'white',
          boxShadow: '2px 18px 20px 20px #666666',
-          /*'&:hover':{
+          '&:hover':{
             transform: 'scale(1.04)',
             boxShadow: '0 0 40px -10px rgba(0, 0, 0, 0.25)'
-        }*/
+        }
      },
      infoCard:{
         display:'flex',

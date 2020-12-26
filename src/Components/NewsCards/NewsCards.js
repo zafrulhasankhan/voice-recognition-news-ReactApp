@@ -10,7 +10,7 @@ const infoCards = [
     { color: '#195070', title: 'News by Terms', info: 'Covid-19 , Bangladesh , Cricket , wrestling , Mushfiqur Rahim , (Say any terms) ...', text: 'What\'s up with Mushfiqur Rahim' },
     { color: '#1565c0', title: 'News by Sources', info: 'CNN , ABC News , BBC News , reuters , Time , ESPN , Buzzfeed...', text: 'Give me the news from CNN' },
   ];
-  //#1565c0
+  
 const NewsCards =({articles,activeArticle})=> {
     console.log('articles',articles);
     const classes = useStyles();
