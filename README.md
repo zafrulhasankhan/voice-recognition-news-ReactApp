@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Nasim's voice recognition news app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Live Site for this project](https://nasim-voice-recognition-news-app.netlify.app).
 
 ## Available Scripts
 
